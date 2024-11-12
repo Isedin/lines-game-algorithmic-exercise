@@ -194,3 +194,4 @@ function makeGrid() {
 			`.trim();
 	container.innerHTML = text;
 }
+}
